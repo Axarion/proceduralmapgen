@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/proceduralmapgen/static/css/main.d1b05096.chunk.css",
-    "main.js": "/proceduralmapgen/static/js/main.2958a6f7.chunk.js",
-    "main.js.map": "/proceduralmapgen/static/js/main.2958a6f7.chunk.js.map",
+    "main.css": "/proceduralmapgen/static/css/main.91ca2404.chunk.css",
+    "main.js": "/proceduralmapgen/static/js/main.91727b37.chunk.js",
+    "main.js.map": "/proceduralmapgen/static/js/main.91727b37.chunk.js.map",
     "runtime-main.js": "/proceduralmapgen/static/js/runtime-main.38c45c21.js",
     "runtime-main.js.map": "/proceduralmapgen/static/js/runtime-main.38c45c21.js.map",
     "static/js/2.bea44c3e.chunk.js": "/proceduralmapgen/static/js/2.bea44c3e.chunk.js",
     "static/js/2.bea44c3e.chunk.js.map": "/proceduralmapgen/static/js/2.bea44c3e.chunk.js.map",
     "index.html": "/proceduralmapgen/index.html",
-    "precache-manifest.23eca97692baa62c37ac77f2aafe89d5.js": "/proceduralmapgen/precache-manifest.23eca97692baa62c37ac77f2aafe89d5.js",
+    "precache-manifest.f1720382fed2d4f414d0f8c0560af5d5.js": "/proceduralmapgen/precache-manifest.f1720382fed2d4f414d0f8c0560af5d5.js",
     "service-worker.js": "/proceduralmapgen/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/proceduralmapgen/static/css/main.d1b05096.chunk.css.map",
+    "static/css/main.91ca2404.chunk.css.map": "/proceduralmapgen/static/css/main.91ca2404.chunk.css.map",
     "static/js/2.bea44c3e.chunk.js.LICENSE": "/proceduralmapgen/static/js/2.bea44c3e.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.38c45c21.js",
     "static/js/2.bea44c3e.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.2958a6f7.chunk.js"
+    "static/css/main.91ca2404.chunk.css",
+    "static/js/main.91727b37.chunk.js"
   ]
 }

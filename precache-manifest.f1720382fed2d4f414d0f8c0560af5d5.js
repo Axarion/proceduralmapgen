@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2ea47b3b7a784a705b7022d7777f7c72",
+    "revision": "c366034d5c74c6edec54d3be11378c36",
     "url": "/proceduralmapgen/index.html"
   },
   {
-    "revision": "78719233d059afc9b1f7",
-    "url": "/proceduralmapgen/static/css/main.d1b05096.chunk.css"
+    "revision": "26b6adccdb0d1283b346",
+    "url": "/proceduralmapgen/static/css/main.91ca2404.chunk.css"
   },
   {
     "revision": "a7a59d651cae5ebeb4f2",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/proceduralmapgen/static/js/2.bea44c3e.chunk.js.LICENSE"
   },
   {
-    "revision": "78719233d059afc9b1f7",
-    "url": "/proceduralmapgen/static/js/main.2958a6f7.chunk.js"
+    "revision": "26b6adccdb0d1283b346",
+    "url": "/proceduralmapgen/static/js/main.91727b37.chunk.js"
   },
   {
     "revision": "862b94cb7b9374d4e6c9",
